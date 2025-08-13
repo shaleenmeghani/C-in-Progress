@@ -34,4 +34,5 @@ int main(){
     else{
         printf("enter correct marks!\nmarks can not be greater than 100!!");
     }
+    return 0;
 }
