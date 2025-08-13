@@ -1,4 +1,4 @@
-//taking input of marks of 5 subject user studies and then giving them the result
+//taking marks as an input and giving the grade according to the grading system
 #include <stdio.h>
 
 int main(){
