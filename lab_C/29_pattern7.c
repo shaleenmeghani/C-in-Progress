@@ -17,7 +17,7 @@ int main(){
         }
         printf("\n");
     }
-    for(int loweri=row;loweri>0;loweri--)
+    for(int loweri=row-1;loweri>0;loweri--)
     {
         for(int lowers=1;lowers<=row-loweri;lowers++)
         {
